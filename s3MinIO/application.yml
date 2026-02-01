@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: s3MinIO
+  minio:
+    endpoint: http://localhost:9000
+    access-key: minioadmin
+    secret-key: minioadmin
+
